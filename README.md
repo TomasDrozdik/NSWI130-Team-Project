@@ -1,6 +1,6 @@
 # NSWI130 Team Project
 
-For all current information see the repo's [wiki](https://github.com/jiriklepl/NSWI130-Team-Project/wiki/).
+For all the current information see the repo's [wiki](https://github.com/jiriklepl/NSWI130-Team-Project/wiki/).
 
 ## List of files
 
